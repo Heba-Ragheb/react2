@@ -1,0 +1,37 @@
+.link{
+color:black ;
+display: flex;
+justify-content: stretch;
+background-color:white  
+border: 10px solid whitesmoke  
+}
+.n{
+  background-color: rgb(84, 167, 162);;
+  padding-right: 50px;
+margin-right: 40px;
+}
+.name{
+  text-align: center;
+  background-color: rgb(84, 167, 162);
+  font-size: larger;
+  
+}
+.sub{
+  background-color: rgb(84, 167, 162);
+}
+
+.logo{
+    font-size: larger;
+    align-items: center;
+  height: 500px;
+    background-image: url(pexels-karolina-grabowska-5632400.jpg);
+    background-size: cover;
+}
+.first{
+    display: flex;
+justify-content: space-around;
+}
+.detal{
+  display: flex;
+  justify-content: center;
+}
